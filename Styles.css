@@ -3,6 +3,18 @@ body {
     font-family:Arial;
 }
 
+.assignment {
+    display:flex;
+    padding:10px;
+    margin:20px;
+    background: lightblue
+}
+
+.assignment img{
+    width:200px;
+    padding:10px;
+}
+
 h1 {
     color: rgb(82, 20, 112);
     text-align:center;

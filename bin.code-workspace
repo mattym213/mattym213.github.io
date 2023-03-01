@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/Microsoft VS Code/bin"
+		},
+		{
+			"path": "../../../Downloads/Microsoft VS Code/locales"
+		},
+		{
+			"path": "../../../Downloads/Microsoft VS Code/policies"
+		},
+		{
+			"path": "../../../Downloads/Microsoft VS Code/resources"
+		},
+		{
+			"path": "../../../Downloads/Microsoft VS Code/swiftshader"
+		},
+		{
+			"path": "../../../Downloads/Microsoft VS Code/tools"
+		}
+	]
+}
